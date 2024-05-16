@@ -1,0 +1,10 @@
+chainlit
+cohere
+openai
+tiktoken
+python-dotenv
+langchain
+langchain-openai
+pymupdf
+qdrant-client
+duckduckgo-search
